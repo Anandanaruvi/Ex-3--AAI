@@ -35,7 +35,7 @@
 
 
 ### Program:
-```
+```Python
 #importing required libraries
 
 from pgmpy.models import BayesianNetwork
